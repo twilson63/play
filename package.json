@@ -1,0 +1,12 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/play.git",
+  "author": "Tom Wilson <twilson63@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apify": "^0.21.9",
+    "crocks": "^0.12.4"
+  }
+}
